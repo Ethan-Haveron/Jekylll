@@ -1,4 +1,6 @@
 # Jekylll
 
 
-[Version One](https://ethan-haveron.github.io/jekylll/)
+
+[Version One](https://github.com/Ethan-Haveron/jekylll.git)
+
