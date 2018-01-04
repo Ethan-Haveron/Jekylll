@@ -2,5 +2,5 @@
 
 
 
-[Version One](https://github.com/Ethan-Haveron/jekylll.git)
+[Version One] (https://ethan-haveron.github.io/Jekylll/index.html)
 
